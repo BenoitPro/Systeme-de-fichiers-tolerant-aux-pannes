@@ -2,5 +2,6 @@
 
 Système de fichiers en réseau tolérant aux pannes en C.
 
-![alt text](schema.jpg?raw=true "schema")
+Je vous conseille la lecture de la documentation qui explique plus en détail le fonctionnement.
 
+![alt text](schema.jpg?raw=true "schema")
